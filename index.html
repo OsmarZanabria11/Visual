@@ -3,15 +3,15 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="description" content="Temas y subtemas de Introducción a las Telecomunicaciones - ITSAO">
-<title>Introducción a las Telecomunicaciones | ITSAO</title>
+<meta name="description" content="Temas y subtemas de Programación Visual - ITSAO">
+<title>Programación Visual | ITSAO</title>
 <style>
 :root{--azul:#0b3d91;--azul2:#1565c0;--claro:#eaf3ff;--texto:#263238;--gris:#607d8b;--fondo:#f4f7fb;--blanco:#fff;--borde:#dce5ef}
 *{box-sizing:border-box}html{scroll-behavior:smooth}
 body{margin:0;font-family:Arial,Helvetica,sans-serif;color:var(--texto);background:var(--fondo)}
 header{background:linear-gradient(135deg,var(--azul),var(--azul2));color:#fff;padding:48px 20px 42px;text-align:center}
 .badge{display:inline-block;padding:7px 14px;border:1px solid rgba(255,255,255,.35);border-radius:20px;font-size:14px;margin-bottom:15px;background:rgba(255,255,255,.1)}
-header h1{margin:0 0 10px;font-size:clamp(30px,5vw,48px)}header p{margin:0;font-size:18px;opacity:.92}
+header h1{margin:0 0 10px;font-size:clamp(24px,4vw,36px)}header p{margin:0;font-size:16px;opacity:.92}
 .container{width:min(1100px,92%);margin:30px auto 50px}
 .welcome{background:#fff;border:1px solid var(--borde);border-radius:16px;padding:25px 28px;box-shadow:0 5px 18px rgba(20,50,90,.07);margin-bottom:30px}
 .welcome h2{margin:0 0 10px;color:var(--azul)}.welcome p{margin:0;line-height:1.7;text-align:justify}
@@ -40,87 +40,100 @@ footer{text-align:center;padding:25px 15px;background:#e9eef5;color:#607d8b;font
 .activity-list a:hover{background:#eaf3ff;transform:translateX(3px)}
 .activity-status{margin:0;color:var(--gris);font-size:14px}
 @media(max-width:600px){header{padding:35px 15px}.welcome{padding:20px}.card{padding:20px}}
+
+.course-intro{color:#0000ee;font-size:16px}
+.course-intro h2,.course-intro h3{color:#0000ee}.course-intro h2{font-size:22px}.course-intro h3{font-size:18px}
+.course-intro p{margin:0 0 22px;line-height:1.65;text-align:justify}
+.course-intro ul{padding-left:28px;line-height:1.65;list-style-type:circle}
+.whatsapp-join{display:flex;flex-direction:column;align-items:center;gap:10px;width:fit-content;margin:20px auto 28px;color:#0000ee;text-decoration:none;font-weight:bold;text-align:center}
+.whatsapp-join img{width:150px;height:150px;object-fit:contain}
+.whatsapp-join:focus-visible{outline:3px solid #1565c0;outline-offset:6px}
+.course-signoff{display:flex;align-items:center;justify-content:space-between;gap:18px;margin-top:24px}
+.course-signoff img{width:85px;height:85px;object-fit:contain}
+.course-signoff strong{text-align:center;flex:1}
+@media(max-width:600px){.course-signoff{flex-wrap:wrap;justify-content:center}.course-signoff strong{flex-basis:100%;order:-1}.course-intro p{text-align:left}}
+
 </style>
 </head>
 <body>
 <header>
 <div class="badge">ITSAO · Ingeniería Electrónica</div>
-<h1>📡 Introducción a las Telecomunicaciones</h1>
+<h1>💻 Programación Visual</h1>
 <p>Temas, subtemas, actividades y recursos de la asignatura</p>
 </header>
 <main class="container">
-<section class="welcome">
+<section class="welcome course-intro" aria-label="Bienvenida e indicaciones del curso">
 <h2>Bienvenidos</h2>
-<p>En este sitio encontrarás los <strong>temas y subtemas</strong> de la asignatura <strong>Introducción a las Telecomunicaciones</strong>. Cada tema presenta su estructura temática para facilitar la consulta de contenidos, actividades, ejercicios, prácticas y recursos que se incorporarán conforme avance el curso.</p>
+<p>Bienvenido al curso de <strong>Programación Visual</strong>, un entorno educativo diseñado para orientarlos en el fortalecimiento de sus habilidades en el diseño de interfaces gráficas de usuario y el desarrollo de aplicaciones interactivas. A través de este espacio virtual, dispondrán de un acceso organizado a los contenidos teóricos, guías prácticas, ejercicios y materiales didácticos que les permitirán dominar los fundamentos de la asignatura.</p>
+<p>La intención de esta plataforma es facilitar el seguimiento de sus avances académicos, organizar sus entregas de manera clara y fomentar el aprendizaje continuo. Aquí podrán encontrar las actividades, indicaciones y fechas de entrega de las actividades solicitadas.</p>
+<p>Se les exhorta a desempeñarse con compromiso, coordinar sus tiempos y aprovechar cada actividad como una valiosa oportunidad para adquirir conocimientos y perfeccionar sus entregas.</p>
+<h3>Indicaciones:</h3>
+<ul>
+<li>Da clic en la imagen <strong>“Unirse al grupo de WhatsApp”</strong>.</li>
+<li>El grupo será un <strong>medio secundario de comunicación</strong> para avisos y recordatorios de la asignatura.</li>
+<li><strong>Horario de atención:</strong> lunes a viernes, de <strong>7:00 a.m. a 4:00 p.m.</strong></li>
+<li>Únete al grupo utilizando tu cuenta personal de WhatsApp.</li>
+<li>Utiliza el grupo únicamente para <strong>asuntos académicos</strong>.</li>
+<li>Evita enviar <strong>memes, cadenas, publicidad o contenido ajeno a la asignatura</strong>.</li>
+<li>Las actividades y entregas oficiales se realizarán mediante <strong>Moodle</strong>.</li>
+</ul>
+<a class="whatsapp-join" href="https://chat.whatsapp.com/HE7k9eorRcYDKMYyUrfV4f" target="_blank" rel="noopener noreferrer" aria-label="Unirse al grupo de WhatsApp de Programación Visual">
+<img src="https://i.ibb.co/yFg140Vv/wt.png" alt="WhatsApp" width="150" height="150">
+<span>Unirse al grupo de WhatsApp</span>
+</a>
+<div class="course-signoff">
+<img src="https://i.ibb.co/TDnrzr3Y/LOGO.png" alt="Ingeniería Electrónica" width="85" height="85">
+<strong>¡Mucho éxito en este proceso y bienvenidos!</strong>
+<img src="https://i.ibb.co/bvbtpPc/LOGO-TEC-ACATLAN.png" alt="Instituto Tecnológico Superior de Acatlán de Osorio — ITSAO" width="85" height="85">
+</div>
 </section>
 <h2 class="section-title">📚 Temas de la asignatura</h2>
 <div class="theme-grid">
 
-<article class="card"><div class="icon">📡</div><span class="topic-number">Tema 1</span><h3>Introducción a las telecomunicaciones</h3><p>Conceptos fundamentales, elementos, medios, ruido, ancho de banda, normatividad y protocolos de comunicación.</p><ol class="subtopics">
-<li><strong>1.1.</strong> Definición de las telecomunicaciones.</li>
-<li><strong>1.2.</strong> Elementos de un sistema de comunicación.</li>
-<li><strong>1.3.</strong> Espectro electromagnético.</li>
-<li><strong>1.4.</strong> Modos de transmisión.</li>
-<li><strong>1.5.</strong> Medios de transmisión.</li>
-<li><strong>1.6.</strong> Ruido.</li>
-<li><strong>1.7.</strong> Ancho de banda.</li>
-<li><strong>1.8.</strong> Normatividad de sistemas de comunicación.</li>
-<li><strong>1.9.</strong> Protocolos de Comunicación.</li>
+<article class="card"><div class="icon">🖥️</div><span class="topic-number">Tema 1</span><h3>Interfaces gráficas de usuario</h3><p>Fundamentos de programación orientada a objetos, interfaces gráficas y programación visual orientada a eventos.</p><ol class="subtopics">
+<li><strong>1.1.</strong> Fundamentos de programación orientada a objetos.</li>
+<li><strong>1.2.</strong> Introducción a la programación de interfaces gráficas de usuario.</li>
+<li><strong>1.3.</strong> Lenguajes de programación para el desarrollo de interfaces gráficas de usuario.</li>
+<li><strong>1.4.</strong> Introducción a la programación visual orientada a eventos.</li>
 </ol><div class="activities" data-theme="Tema 1"><h4>📚 Actividades</h4><p class="activity-status" role="status">Cargando actividades...</p><ul class="activity-list"></ul></div></article>
 
-<article class="card"><div class="icon">〰️</div><span class="topic-number">Tema 2</span><h3>Comunicación Analógica</h3><p>Modulación de amplitud y modulación angular, espectros, ancho de banda, circuitos, sistemas y aplicaciones.</p><ol class="subtopics">
-<li><strong>2.1.</strong> Modulación de Amplitud (AM).</li>
-<li><strong>2.1.1.</strong> Modulación de Amplitud.</li>
-<li><strong>2.1.2.</strong> Espectro de frecuencias de AM.</li>
-<li><strong>2.1.3.</strong> Ancho de banda.</li>
-<li><strong>2.1.4.</strong> Circuitos moduladores de AM.</li>
-<li><strong>2.1.5.</strong> Circuitos receptores de AM.</li>
-<li><strong>2.1.6.</strong> Sistema de banda lateral única con portadora completa.</li>
-<li><strong>2.1.7.</strong> Sistema de banda lateral única con portadora suprimida.</li>
-<li><strong>2.1.8.</strong> Aplicaciones. (Radiodifusión).</li>
-<li><strong>2.2.</strong> Modulación Angular (FM, PM).</li>
-<li><strong>2.2.1.</strong> Modulación de fase (PM).</li>
-<li><strong>2.2.2.</strong> Modulación de frecuencia (FM).</li>
-<li><strong>2.2.3.</strong> Sensibilidad a la desviación.</li>
-<li><strong>2.2.4.</strong> Desviación de fase e índice demodulación.</li>
-<li><strong>2.2.5.</strong> Desviación de frecuencia.</li>
-<li><strong>2.2.6.</strong> Ancho de banda.</li>
-<li><strong>2.2.7.</strong> Espectro de frecuencias en una señal de FM.</li>
-<li><strong>2.2.8.</strong> Ruido en FM Y AM.</li>
+<article class="card"><div class="icon">🧩</div><span class="topic-number">Tema 2</span><h3>Elementos básicos de las interfaces gráficas de usuario</h3><p>Desarrollo de interfaces gráficas utilizando objetos básicos y diseño de aplicaciones visuales.</p><ol class="subtopics">
+<li><strong>2.1.</strong> Introducción al desarrollo de interfaces gráficas de usuario.</li>
+<li><strong>2.2.</strong> Aplicación de objetos básicos:</li>
+<li><strong>2.2.1.</strong> Para manejo de texto.</li>
+<li><strong>2.2.2.</strong> Botones.</li>
+<li><strong>2.2.3.</strong> Barras de desplazamiento.</li>
+<li><strong>2.2.4.</strong> Listas desplegables.</li>
+<li><strong>2.2.5.</strong> Cajas de verificación.</li>
+<li><strong>2.2.6.</strong> Cuadro de imágenes.</li>
+<li><strong>2.3.</strong> Diseño de interfaces utilizando objetos básicos.</li>
 </ol><div class="activities" data-theme="Tema 2"><h4>📚 Actividades</h4><p class="activity-status" role="status">Cargando actividades...</p><ul class="activity-list"></ul></div></article>
 
-<article class="card"><div class="icon">💻</div><span class="topic-number">Tema 3</span><h3>Comunicación Digital</h3><p>Modulación digital, comunicación de datos, detección de errores, conversión de datos, transmisión, interfaces y multiplexación.</p><ol class="subtopics">
-<li><strong>3.1.</strong> Modulación Digital.</li>
-<li><strong>3.1.1.</strong> Introducción.</li>
-<li><strong>3.1.2.</strong> Teorema de Shannon.</li>
-<li><strong>3.1.3.</strong> Modulación digital ASK.</li>
-<li><strong>3.1.4.</strong> Modulación digital FSK.</li>
-<li><strong>3.1.5.</strong> Modulación digital PSK.</li>
-<li><strong>3.1.6.</strong> Modulación digital QAM.</li>
-<li><strong>3.2.</strong> Comunicación de datos.</li>
-<li><strong>3.2.1.</strong> Transmisión digital de datos.</li>
-<li><strong>3.2.1.1.</strong> Ventajas y desventajas de la transmisión digital.</li>
-<li><strong>3.2.2.</strong> Detección de errores.</li>
-<li><strong>3.2.3.</strong> Conversión de datos.</li>
-<li><strong>3.2.4.</strong> Transmisión en paral.y ser.</li>
-<li><strong>3.2.5.</strong> Modulación delta.</li>
-<li><strong>3.2.6.</strong> Modulación por pulsos (PAM, PWM,PPM y PCM).</li>
-<li><strong>3.2.7.</strong> Interfaces seriales.</li>
-<li><strong>3.3.</strong> Mux y Demux.</li>
-<li><strong>3.3.1.</strong> Principios de mux.</li>
-<li><strong>3.3.2.</strong> Mux por división de frecuencia.</li>
-<li><strong>3.3.3.</strong> Mux por división de tiempo.</li>
-<li><strong>3.3.4.</strong> Mux por división de cód.</li>
-<li><strong>3.3.5.</strong> Circuitos Mux y demux.</li>
+<article class="card"><div class="icon">⚙️</div><span class="topic-number">Tema 3</span><h3>Elementos avanzados de las interfaces gráficas de usuario</h3><p>Aplicación de objetos avanzados, organización de datos y herramientas para el desarrollo de interfaces gráficas.</p><ol class="subtopics">
+<li><strong>3.1.</strong> Aplicación de objetos avanzados.</li>
+<li><strong>3.1.1.</strong> Menús.</li>
+<li><strong>3.1.2.</strong> Cajas de diálogo.</li>
+<li><strong>3.1.3.</strong> Controles de rango.</li>
+<li><strong>3.1.4.</strong> Temporizadores.</li>
+<li><strong>3.1.5.</strong> Barras de progreso.</li>
+<li><strong>3.1.6.</strong> Cuadros de dialogo predefinidos.</li>
+<li><strong>3.1.7.</strong> Otros.</li>
+<li><strong>3.2.</strong> Diseño de interfaces gráficas de usuario utilizando objetos avanzados.</li>
+<li><strong>3.3.</strong> Organización y visualización de datos.</li>
+<li><strong>3.4.</strong> Asistentes para el desarrollo de interfaces.</li>
 </ol><div class="activities" data-theme="Tema 3"><h4>📚 Actividades</h4><p class="activity-status" role="status">Cargando actividades...</p><ul class="activity-list"></ul></div></article>
 
-<article class="card"><div class="icon">📶</div><span class="topic-number">Tema 4</span><h3>Sistemas de Telecomunicaciones</h3><p>Principales sistemas y tecnologías de telecomunicaciones utilizados para la transmisión de información.</p><ol class="subtopics">
-<li><strong>4.1.</strong> Sistema de Telefonía fija.</li>
-<li><strong>4.2.</strong> Sistema de telefonía celular.</li>
-<li><strong>4.3.</strong> Microondas.</li>
-<li><strong>4.4.</strong> Satélites.</li>
-<li><strong>4.5.</strong> Televisión.</li>
+<article class="card"><div class="icon">🔌</div><span class="topic-number">Tema 4</span><h3>Desarrollo de interfaces gráficas de usuario aplicadas a puertos</h3><p>Programación de puertos mediante interfaces visuales y desarrollo de aplicaciones con conectividad.</p><ol class="subtopics">
+<li><strong>4.1.</strong> Introducción a la programación de puertos con interfaces visuales.</li>
+<li><strong>4.2.</strong> Desarrollo de aplicaciones con interfaces gráficas de usuario con conectividad a puertos seriales y/o paralelo.</li>
 </ol><div class="activities" data-theme="Tema 4"><h4>📚 Actividades</h4><p class="activity-status" role="status">Cargando actividades...</p><ul class="activity-list"></ul></div></article>
+
+<article class="card"><div class="icon">📊</div><span class="topic-number">Tema 5</span><h3>Desarrollo de aplicaciones</h3><p>Aplicaciones de interfaces gráficas para adquisición de datos, sistemas de control, procesos locales y remotos y bases de datos.</p><ol class="subtopics">
+<li><strong>5.1.</strong> Desarrollo de aplicaciones de interfaces gráficas en la adquisición de datos digitales y analógicos.</li>
+<li><strong>5.2.</strong> Desarrollo de interfaces gráficas aplicadas a sistemas de control.</li>
+<li><strong>5.3.</strong> Desarrollo de aplicaciones de interfaces gráficas de usuario aplicadas proceso locales y remotos.</li>
+<li><strong>5.4.</strong> Manejo básico de base de datos con aplicación a sistemas electrónicos.</li>
+</ol><div class="activities" data-theme="Tema 5"><h4>📚 Actividades</h4><p class="activity-status" role="status">Cargando actividades...</p><ul class="activity-list"></ul></div></article>
 
 </div>
 <section class="info"><strong>📌 Importante:</strong> Revisa periódicamente este sitio para consultar nuevas actividades, instrucciones, fechas de entrega, prácticas y recursos proporcionados por el docente.</section>
@@ -129,11 +142,11 @@ footer{text-align:center;padding:25px 15px;background:#e9eef5;color:#607d8b;font
 <script>
 /*
   Carga automáticamente las actividades publicadas dentro de cada carpeta
-  Tema 1, Tema 2, ... Tema 4 del repositorio OsmarZanabria11/Telecomunicaciones.
+  Tema 1, Tema 2, ... Tema 5 del repositorio OsmarZanabria11/Visual.
   No es necesario modificar este index cada vez que se agregue una actividad.
 */
 const REPO_OWNER = "OsmarZanabria11";
-const REPO_NAME = "Telecomunicaciones";
+const REPO_NAME = "Visual";
 const REPO_BRANCH = "main";
 const PAGES_BASE = `https://${REPO_OWNER.toLowerCase()}.github.io/${REPO_NAME}/`;
 
