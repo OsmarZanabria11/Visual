@@ -102,7 +102,7 @@
   "titulo": "Encendido de un LED",
   "docente": "Osmar García Zanabria",
   "institucion": "Instituto Tecnológico Superior de Acatlán de Osorio",
-  "fecha_limite": "2026-10-21",
+  "fecha_limite": "2026-10-23",
   "hora_limite": "23:59",
   "estado_entrega": "habilitado",
   "mostrar_contador": "si",
@@ -130,18 +130,5 @@
   "nota_entrega": "<div style=\"text-align:justify\"><span style=\"font-weight:bold\">N</span><span style=\"font-weight:bold\">o</span><span style=\"font-weight:bold\">t</span><span style=\"font-weight:bold\">a</span><span style=\"font-weight:bold\">:</span> Revisa los permisos de la carpeta antes de entregar.</div>",
   "notas": "<div style=\"text-align:justify\">Donde: <br><br><span style=\"font-weight:bold;color:#ff0000\">A</span><span style=\"font-weight:bold;color:#ff0000\">C</span><span style=\"font-weight:bold;color:#ff0000\">:</span> Actividad.<br><span style=\"font-weight:bold;color:#ff0000\">X</span>: Número de la actividad.<br><span style=\"font-weight:bold;color:#ff0000\">N</span><span style=\"font-weight:bold;color:#ff0000\">o</span><span style=\"font-weight:bold;color:#ff0000\">m</span><span style=\"font-weight:bold;color:#ff0000\">b</span><span style=\"font-weight:bold;color:#ff0000\">r</span><span style=\"font-weight:bold;color:#ff0000\">e</span><span style=\"font-weight:bold;color:#ff0000\">s</span>: Nombres. Ejemplo: Juan.<br></div>",
   "checklist": "<div style=\"text-align:justify\">El video corresponde al Ejercicio 48 realizado en clase.<br>El video explica el diseño de la interfaz y muestra sus funciones.<br>Se demuestra el encendido y apagado del LED.<br>Se entrega el archivo comprimido con extensión .rar que incluyen los dos codigos.<br>Se incluyen los archivos auxiliares necesarios para ejecutar el programa.<br>Los archivos tienen los nombres solicitados.<br>La entrega se realiza antes de la fecha y hora establecidas.</div>",
-  "apartados_adicionales": [
-    {
-      "titulo": "",
-      "tipo": "Video (URL)",
-      "url": "",
-      "contenido": "",
-      "ancho": "900",
-      "alto": "500",
-      "iframe": "",
-      "alineacion_texto": "justify",
-      "alineacion_imagen": "center",
-      "alineacion_titulo": ""
-    }
-  ]
+  "apartados_adicionales": []
 }
