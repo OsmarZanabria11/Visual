@@ -1,0 +1,134 @@
+{
+  "alineacion_bloques": {
+    "fecha": "left",
+    "formato": "left",
+    "nombres": "left"
+  },
+  "alineacion_imagenes": {
+    "imagen": "center",
+    "imagen_carga": "center",
+    "imagen_equipo": "center"
+  },
+  "titulos_secciones": {
+    "Datos de la actividad": {
+      "texto": "Datos de la actividad",
+      "alineacion": "left"
+    },
+    "Descripción": {
+      "texto": "Personalización de la gráfica del potenciómetro",
+      "alineacion": "left"
+    },
+    "Requerimientos": {
+      "texto": "Requerimientos de la Actividad",
+      "alineacion": "left"
+    },
+    "Instrucciones de entrega": {
+      "texto": "Instrucciones de entrega",
+      "alineacion": "left"
+    },
+    "Instrucciones y criterios": {
+      "texto": "Instrucciones ",
+      "alineacion": "left"
+    },
+    "Criterios y condiciones": {
+      "texto": "Criterios y condiciones",
+      "alineacion": "left"
+    },
+    "Entrega del archivo": {
+      "texto": "Entrega del archivo",
+      "alineacion": "left"
+    },
+    "Instrucciones para cargar el archivo": {
+      "texto": "Instrucciones para cargar el archivo",
+      "alineacion": "left"
+    },
+    "Formato para nombrar los archivos": {
+      "texto": "Formato para nombrar los archivos",
+      "alineacion": "left"
+    },
+    "Enlaces y recursos": {
+      "texto": "Enlaces y recursos",
+      "alineacion": "left"
+    },
+    "Notas importantes": {
+      "texto": "Notas importantes",
+      "alineacion": "left"
+    },
+    "Checklist": {
+      "texto": "Checklist",
+      "alineacion": "left"
+    }
+  },
+  "formato_secciones": {
+    "0": {
+      "texto": "justify",
+      "imagen": "left"
+    },
+    "1": {
+      "texto": "justify",
+      "imagen": "center"
+    },
+    "2": {
+      "texto": "justify",
+      "imagen": "right"
+    },
+    "3": {
+      "texto": "justify",
+      "imagen": "center"
+    },
+    "4": {
+      "texto": "justify",
+      "imagen": "center"
+    },
+    "5": {
+      "texto": "justify",
+      "imagen": "right"
+    },
+    "6": {
+      "texto": "justify",
+      "imagen": "left"
+    }
+  },
+  "version": "2.25",
+  "numero": "4",
+  "tema": "T3",
+  "ejercicio": "18",
+  "actividad": "4",
+  "titulo_principal": "Actividad 4 – T3 - Ejercicio 55",
+  "subtitulo": "Personalización de la gráfica del potenciómetro",
+  "nombre_archivo": "Actividad 4 – T3.html",
+  "materia": "Programación Visual",
+  "unidad": "Unidad 2: estructuras de control",
+  "titulo": "",
+  "docente": "Osmar García Zanabria",
+  "institucion": "Instituto Tecnológico Superior de Acatlán de Osorio",
+  "fecha_limite": "2026-11-16",
+  "hora_limite": "23:59",
+  "estado_entrega": "habilitado",
+  "mostrar_contador": "si",
+  "cierre_automatico": "si",
+  "descripcion": "Cada estudiante retomará los programas del ejercicio 54 y mejorará la presentación visual de la gráfica del potenciómetro en la interfaz de Python. El propósito es que la gráfica tenga una apariencia profesional y que sus lecturas sean fáciles de interpretar. La gráfica seguirá mostrando los valores enviados por el Arduino en una escala de 0 a 1023 y se actualizará al girar el potenciómetro.",
+  "requerimientos": "<span style=\"font-weight:bold\">I</span><span style=\"font-weight:bold\">d</span><span style=\"font-weight:bold\">e</span><span style=\"font-weight:bold\">n</span><span style=\"font-weight:bold\">t</span><span style=\"font-weight:bold\">i</span><span style=\"font-weight:bold\">f</span><span style=\"font-weight:bold\">i</span><span style=\"font-weight:bold\">c</span><span style=\"font-weight:bold\">a</span><span style=\"font-weight:bold\">c</span><span style=\"font-weight:bold\">i</span><span style=\"font-weight:bold\">ó</span><span style=\"font-weight:bold\">n</span><span style=\"font-weight:bold\"> </span><span style=\"font-weight:bold\">d</span><span style=\"font-weight:bold\">e</span><span style=\"font-weight:bold\"> </span><span style=\"font-weight:bold\">l</span><span style=\"font-weight:bold\">a</span><span style=\"font-weight:bold\"> </span><span style=\"font-weight:bold\">g</span><span style=\"font-weight:bold\">r</span><span style=\"font-weight:bold\">á</span><span style=\"font-weight:bold\">f</span><span style=\"font-weight:bold\">i</span><span style=\"font-weight:bold\">c</span><span style=\"font-weight:bold\">a</span><span style=\"font-weight:bold\">.</span> El estudiante incorporará un título descriptivo y etiquetas claras en ambos ejes. El eje horizontal indicará el número de muestra o el tiempo transcurrido, según los datos que represente, y el eje vertical identificará la lectura del potenciómetro en una escala de 0 a 1023.<br><br><span style=\"font-weight:bold\">D</span><span style=\"font-weight:bold\">i</span><span style=\"font-weight:bold\">s</span><span style=\"font-weight:bold\">e</span><span style=\"font-weight:bold\">ñ</span><span style=\"font-weight:bold\">o</span><span style=\"font-weight:bold\"> </span><span style=\"font-weight:bold\">v</span><span style=\"font-weight:bold\">i</span><span style=\"font-weight:bold\">s</span><span style=\"font-weight:bold\">u</span><span style=\"font-weight:bold\">a</span><span style=\"font-weight:bold\">l</span><span style=\"font-weight:bold\">.</span> El estudiante aplicará colores con buen contraste, un grosor de línea que facilite seguir la señal y un tamaño de texto legible. Se podrá utilizar una cuadrícula discreta como referencia para leer los valores.<br><br><span style=\"font-weight:bold\">I</span><span style=\"font-weight:bold\">n</span><span style=\"font-weight:bold\">t</span><span style=\"font-weight:bold\">e</span><span style=\"font-weight:bold\">g</span><span style=\"font-weight:bold\">r</span><span style=\"font-weight:bold\">a</span><span style=\"font-weight:bold\">c</span><span style=\"font-weight:bold\">i</span><span style=\"font-weight:bold\">ó</span><span style=\"font-weight:bold\">n</span><span style=\"font-weight:bold\"> </span><span style=\"font-weight:bold\">e</span><span style=\"font-weight:bold\">n</span><span style=\"font-weight:bold\"> </span><span style=\"font-weight:bold\">l</span><span style=\"font-weight:bold\">a</span><span style=\"font-weight:bold\"> </span><span style=\"font-weight:bold\">i</span><span style=\"font-weight:bold\">n</span><span style=\"font-weight:bold\">t</span><span style=\"font-weight:bold\">e</span><span style=\"font-weight:bold\">r</span><span style=\"font-weight:bold\">f</span><span style=\"font-weight:bold\">a</span><span style=\"font-weight:bold\">z</span><span style=\"font-weight:bold\">.</span> La gráfica deberá quedar alineada con los demás elementos de la ventana y contar con espacio suficiente para que el título, las etiquetas y la escala se vean completos.<br><br><span style=\"font-weight:bold\">P</span><span style=\"font-weight:bold\">r</span><span style=\"font-weight:bold\">u</span><span style=\"font-weight:bold\">e</span><span style=\"font-weight:bold\">b</span><span style=\"font-weight:bold\">a</span><span style=\"font-weight:bold\"> </span><span style=\"font-weight:bold\">d</span><span style=\"font-weight:bold\">e</span><span style=\"font-weight:bold\"> </span><span style=\"font-weight:bold\">f</span><span style=\"font-weight:bold\">u</span><span style=\"font-weight:bold\">n</span><span style=\"font-weight:bold\">c</span><span style=\"font-weight:bold\">i</span><span style=\"font-weight:bold\">o</span><span style=\"font-weight:bold\">n</span><span style=\"font-weight:bold\">a</span><span style=\"font-weight:bold\">m</span><span style=\"font-weight:bold\">i</span><span style=\"font-weight:bold\">e</span><span style=\"font-weight:bold\">n</span><span style=\"font-weight:bold\">t</span><span style=\"font-weight:bold\">o</span><span style=\"font-weight:bold\">.</span><span style=\"font-weight:bold\"> </span>El estudiante comprobará que la gráfica se actualiza al girar el potenciómetro, que los botones de la interfaz siguen controlando el LED físico y que el indicador de Python se enciende al presionar el pulsador físico y se apaga al soltarlo.<br><br><span style=\"font-weight:bold\">E</span><span style=\"font-weight:bold\">n</span><span style=\"font-weight:bold\">t</span><span style=\"font-weight:bold\">r</span><span style=\"font-weight:bold\">e</span><span style=\"font-weight:bold\">g</span><span style=\"font-weight:bold\">a</span><span style=\"font-weight:bold\"> </span><span style=\"font-weight:bold\">d</span><span style=\"font-weight:bold\">e</span><span style=\"font-weight:bold\"> </span><span style=\"font-weight:bold\">l</span><span style=\"font-weight:bold\">o</span><span style=\"font-weight:bold\">s</span><span style=\"font-weight:bold\"> </span><span style=\"font-weight:bold\">c</span><span style=\"font-weight:bold\">ó</span><span style=\"font-weight:bold\">d</span><span style=\"font-weight:bold\">i</span><span style=\"font-weight:bold\">g</span><span style=\"font-weight:bold\">o</span><span style=\"font-weight:bold\">s</span><span style=\"font-weight:bold\">.</span> El estudiante entregará en un solo archivo comprimido .rar el código actualizado de la interfaz de Python (.py) y el código de Arduino (.ino) utilizado durante la prueba.",
+  "instrucciones": "",
+  "entrega": "<div style=\"text-align:left\">El archivo no se entregará por este medio; deberá enviarse a través del enlace compartido dando click en el icono.</div>",
+  "condiciones": "El desarrollo, la prueba y la entrega se realizarán de manera individual.<br><br>Los cambios se limitarán a la presentación visual de la gráfica. Se conservarán las lecturas del potenciómetro, la comunicación entre Python y Arduino y las funciones de los botones e indicadores del ejercicio 54.<br><br>La calidad visual se valorará por la legibilidad, el contraste y la facilidad para interpretar la gráfica.<br><br>Los archivos deberán corresponder a las versiones utilizadas en la prueba final. El archivo comprimido deberá llevar el nombre solicitado y entregarse por el medio indicado, dentro del plazo establecido.<br>",
+  "instruccion_carga": "<div style=\"text-align:left\">Al seleccionar el enlace o botón de entrega, aparecerá una ventana para cargar el archivo solicitado. Haz clic en “<span style=\"font-weight:bold\">S</span><span style=\"font-weight:bold\">e</span><span style=\"font-weight:bold\">l</span><span style=\"font-weight:bold\">e</span><span style=\"font-weight:bold\">c</span><span style=\"font-weight:bold\">c</span><span style=\"font-weight:bold\">i</span><span style=\"font-weight:bold\">o</span><span style=\"font-weight:bold\">n</span><span style=\"font-weight:bold\">a</span><span style=\"font-weight:bold\">r</span><span style=\"font-weight:bold\"> </span><span style=\"font-weight:bold\">a</span><span style=\"font-weight:bold\">r</span><span style=\"font-weight:bold\">c</span><span style=\"font-weight:bold\">h</span><span style=\"font-weight:bold\">i</span><span style=\"font-weight:bold\">v</span><span style=\"font-weight:bold\">o</span><span style=\"font-weight:bold\">s</span>” y elige el archivo que corresponde a esta actividad.<br><br>El nombre que aparece en la imagen es un <span style=\"font-weight:bold;color:#ff0000\">e</span><span style=\"font-weight:bold;color:#ff0000\">j</span><span style=\"font-weight:bold;color:#ff0000\">e</span><span style=\"font-weight:bold;color:#ff0000\">m</span><span style=\"font-weight:bold;color:#ff0000\">p</span><span style=\"font-weight:bold;color:#ff0000\">l</span><span style=\"font-weight:bold;color:#ff0000\">o</span><span style=\"color:#ff0000\">.</span></div>",
+  "instruccion_equipo": "<div style=\"text-align:left\">Después de seleccionar el archivo, aparecerán los campos <span style=\"font-weight:bold;color:#ff0000\">N</span><span style=\"font-weight:bold;color:#ff0000\">o</span><span style=\"font-weight:bold;color:#ff0000\">m</span><span style=\"font-weight:bold;color:#ff0000\">b</span><span style=\"font-weight:bold;color:#ff0000\">r</span><span style=\"font-weight:bold;color:#ff0000\">e</span> y <span style=\"font-weight:bold;color:#ff0000\">A</span><span style=\"font-weight:bold;color:#ff0000\">p</span><span style=\"font-weight:bold;color:#ff0000\">e</span><span style=\"font-weight:bold;color:#ff0000\">l</span><span style=\"font-weight:bold;color:#ff0000\">l</span><span style=\"font-weight:bold;color:#ff0000\">i</span><span style=\"font-weight:bold;color:#ff0000\">d</span><span style=\"font-weight:bold;color:#ff0000\">o</span><span style=\"font-weight:bold;color:#ff0000\">s</span>. Escribe lo siguiente:<br><br>Nombre: <span style=\"font-weight:bold;color:#ff0000\">N</span><span style=\"font-weight:bold;color:#ff0000\">o</span><span style=\"font-weight:bold;color:#ff0000\">m</span><span style=\"font-weight:bold;color:#ff0000\">b</span><span style=\"font-weight:bold;color:#ff0000\">r</span><span style=\"font-weight:bold;color:#ff0000\">e</span><br>Apellidos: <span style=\"font-weight:bold;color:#ff0000\">A</span><span style=\"font-weight:bold;color:#ff0000\">p</span><span style=\"font-weight:bold;color:#ff0000\">e</span><span style=\"font-weight:bold;color:#ff0000\">l</span><span style=\"font-weight:bold;color:#ff0000\">l</span><span style=\"font-weight:bold;color:#ff0000\">i</span><span style=\"font-weight:bold;color:#ff0000\">d</span><span style=\"font-weight:bold;color:#ff0000\">o</span><br><br><span style=\"font-weight:bold\">E</span><span style=\"font-weight:bold\">s</span><span style=\"font-weight:bold\">t</span><span style=\"font-weight:bold\">e</span><span style=\"font-weight:bold\"> </span><span style=\"font-weight:bold\">p</span><span style=\"font-weight:bold\">r</span><span style=\"font-weight:bold\">o</span><span style=\"font-weight:bold\">c</span><span style=\"font-weight:bold\">e</span><span style=\"font-weight:bold\">d</span><span style=\"font-weight:bold\">i</span><span style=\"font-weight:bold\">m</span><span style=\"font-weight:bold\">i</span><span style=\"font-weight:bold\">e</span><span style=\"font-weight:bold\">n</span><span style=\"font-weight:bold\">t</span><span style=\"font-weight:bold\">o</span><span style=\"font-weight:bold\"> </span><span style=\"font-weight:bold\">e</span><span style=\"font-weight:bold\">s</span><span style=\"font-weight:bold\"> </span><span style=\"font-weight:bold\">e</span><span style=\"font-weight:bold\">l</span><span style=\"font-weight:bold\"> </span><span style=\"font-weight:bold\">m</span><span style=\"font-weight:bold\">i</span><span style=\"font-weight:bold\">s</span><span style=\"font-weight:bold\">m</span><span style=\"font-weight:bold\">o</span><span style=\"font-weight:bold\"> </span><span style=\"font-weight:bold\">p</span><span style=\"font-weight:bold\">a</span><span style=\"font-weight:bold\">r</span><span style=\"font-weight:bold\">a</span><span style=\"font-weight:bold\"> </span><span style=\"font-weight:bold\">l</span><span style=\"font-weight:bold\">o</span><span style=\"font-weight:bold\">s</span><span style=\"font-weight:bold\"> </span><span style=\"font-weight:bold\">d</span><span style=\"font-weight:bold\">o</span><span style=\"font-weight:bold\">s</span><span style=\"font-weight:bold\"> </span><span style=\"font-weight:bold\">a</span><span style=\"font-weight:bold\">r</span><span style=\"font-weight:bold\">c</span><span style=\"font-weight:bold\">h</span><span style=\"font-weight:bold\">i</span><span style=\"font-weight:bold\">v</span><span style=\"font-weight:bold\">o</span><span style=\"font-weight:bold\">s</span><span style=\"font-weight:bold\"> </span><span style=\"font-weight:bold\">q</span><span style=\"font-weight:bold\">u</span><span style=\"font-weight:bold\">e</span><span style=\"font-weight:bold\"> </span><span style=\"font-weight:bold\">s</span><span style=\"font-weight:bold\">e</span><span style=\"font-weight:bold\"> </span><span style=\"font-weight:bold\">t</span><span style=\"font-weight:bold\">i</span><span style=\"font-weight:bold\">e</span><span style=\"font-weight:bold\">n</span><span style=\"font-weight:bold\">e</span><span style=\"font-weight:bold\">n</span><span style=\"font-weight:bold\"> </span><span style=\"font-weight:bold\">q</span><span style=\"font-weight:bold\">u</span><span style=\"font-weight:bold\">e</span><span style=\"font-weight:bold\"> </span><span style=\"font-weight:bold\">e</span><span style=\"font-weight:bold\">n</span><span style=\"font-weight:bold\">t</span><span style=\"font-weight:bold\">r</span><span style=\"font-weight:bold\">e</span><span style=\"font-weight:bold\">g</span><span style=\"font-weight:bold\">a</span><span style=\"font-weight:bold\">r</span><span style=\"font-weight:bold\">.</span><br></div>",
+  "imagen_carga": "https://raw.githubusercontent.com/OsmarZanabria11/Imagenes/main/2a.png",
+  "imagen_equipo": "https://raw.githubusercontent.com/OsmarZanabria11/Imagenes/main/1a.png",
+  "firma": "AX - Nombre.rar",
+  "simulacion": "",
+  "enlace": "https://itsaoedu-my.sharepoint.com/:f:/g/personal/osmar_zanabria_itsao_edu_mx/IgDjNPnZm5-fSKdNWL9v0ERQAWTi_90kwMnD439LaCWi0OE",
+  "imagen": "https://raw.githubusercontent.com/OsmarZanabria11/Imagenes/main/one.png",
+  "enlaces": "",
+  "imagen_carga_ancho": "310",
+  "imagen_carga_alto": "270",
+  "imagen_equipo_ancho": "310",
+  "imagen_equipo_alto": "270",
+  "imagen_entrega_ancho": "180",
+  "imagen_entrega_alto": "120",
+  "nota_entrega": "<div style=\"text-align:justify\"><span style=\"font-weight:bold\">N</span><span style=\"font-weight:bold\">o</span><span style=\"font-weight:bold\">t</span><span style=\"font-weight:bold\">a</span><span style=\"font-weight:bold\">:</span> Revisa los permisos de la carpeta antes de entregar.</div>",
+  "notas": "<div style=\"text-align:justify\">Donde: <br><br><span style=\"font-weight:bold;color:#ff0000\">A</span><span style=\"font-weight:bold;color:#ff0000\">C</span><span style=\"font-weight:bold;color:#ff0000\">:</span> Actividad.<br><span style=\"font-weight:bold;color:#ff0000\">X</span>: Número de la actividad.<br><span style=\"font-weight:bold;color:#ff0000\">N</span><span style=\"font-weight:bold;color:#ff0000\">o</span><span style=\"font-weight:bold;color:#ff0000\">m</span><span style=\"font-weight:bold;color:#ff0000\">b</span><span style=\"font-weight:bold;color:#ff0000\">r</span><span style=\"font-weight:bold;color:#ff0000\">e</span>: Nombre. Ejemplo: Juan.<br></div>",
+  "checklist": "La gráfica tiene un título descriptivo y etiquetas legibles en ambos ejes.<br><br>El eje vertical muestra la escala de 0 a 1023 y la línea se distingue con claridad del fondo.<br><br>El título, las etiquetas y la escala se ven completos dentro de la interfaz.<br><br>La gráfica se actualiza al girar el potenciómetro.<br><br>Los botones de la interfaz controlan el LED físico y el indicador de Python refleja el estado del pulsador físico.<br><br>El archivo .rar contiene los códigos .py e .ino utilizados en la prueba final.<br><br>La entrega es individual y cumple con el nombre, el medio y el plazo indicados.",
+  "apartados_adicionales": []
+}

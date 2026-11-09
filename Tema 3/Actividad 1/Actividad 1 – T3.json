@@ -1,0 +1,134 @@
+{
+  "alineacion_bloques": {
+    "fecha": "left",
+    "formato": "left",
+    "nombres": "left"
+  },
+  "alineacion_imagenes": {
+    "imagen": "center",
+    "imagen_carga": "center",
+    "imagen_equipo": "center"
+  },
+  "titulos_secciones": {
+    "Datos de la actividad": {
+      "texto": "Datos de la actividad ",
+      "alineacion": "left"
+    },
+    "Descripción": {
+      "texto": "Desarrollo de ejercicios en clase",
+      "alineacion": "left"
+    },
+    "Requerimientos": {
+      "texto": "Requerimientos de la Actividad",
+      "alineacion": "left"
+    },
+    "Instrucciones de entrega": {
+      "texto": "Instrucciones de entrega",
+      "alineacion": "left"
+    },
+    "Instrucciones y criterios": {
+      "texto": "Instrucciones ",
+      "alineacion": "left"
+    },
+    "Criterios y condiciones": {
+      "texto": "Criterios y condiciones",
+      "alineacion": "left"
+    },
+    "Entrega del archivo": {
+      "texto": "Entrega del archivo",
+      "alineacion": "left"
+    },
+    "Instrucciones para cargar el archivo": {
+      "texto": "Instrucciones para cargar el archivo",
+      "alineacion": "left"
+    },
+    "Formato para nombrar los archivos": {
+      "texto": "Formato para nombrar los archivos",
+      "alineacion": "left"
+    },
+    "Enlaces y recursos": {
+      "texto": "Enlaces y recursos",
+      "alineacion": "left"
+    },
+    "Notas importantes": {
+      "texto": "Notas importantes",
+      "alineacion": "left"
+    },
+    "Checklist": {
+      "texto": "Checklist",
+      "alineacion": "left"
+    }
+  },
+  "formato_secciones": {
+    "0": {
+      "texto": "justify",
+      "imagen": "left"
+    },
+    "1": {
+      "texto": "justify",
+      "imagen": "center"
+    },
+    "2": {
+      "texto": "justify",
+      "imagen": "right"
+    },
+    "3": {
+      "texto": "justify",
+      "imagen": "center"
+    },
+    "4": {
+      "texto": "justify",
+      "imagen": "center"
+    },
+    "5": {
+      "texto": "justify",
+      "imagen": "right"
+    },
+    "6": {
+      "texto": "justify",
+      "imagen": "left"
+    }
+  },
+  "version": "2.25",
+  "numero": "1",
+  "tema": "T3",
+  "ejercicio": "18",
+  "actividad": "1",
+  "titulo_principal": "Actividad 1 – T3 - Ejercicios",
+  "subtitulo": "Desarrollo de ejercicios",
+  "nombre_archivo": "Actividad 1 – T3.html",
+  "materia": "Programación Visual",
+  "unidad": "Unidad 2: estructuras de control",
+  "titulo": "Entrega de ejercicios realizados en clase",
+  "docente": "Osmar García Zanabria",
+  "institucion": "Instituto Tecnológico Superior de Acatlán de Osorio",
+  "fecha_limite": "2026-11-16",
+  "hora_limite": "23:59",
+  "estado_entrega": "habilitado",
+  "mostrar_contador": "si",
+  "cierre_automatico": "si",
+  "descripcion": "En esta actividad entregarán los ejercicios realizados en clase para su revisión. Una vez que el docente verifique que cada ejercicio cumple con las indicaciones, otorgará la firma correspondiente como constancia de entrega.",
+  "requerimientos": "<div style=\"text-align:justify\">Presentar completos todos los ejercicios solicitados, en el orden indicado en clase.<br>Identificar cada ejercicio con su número o título e incluir el nombre del estudiante.<br>Presentar los ejercicios al docente para su revisión y verificar que cada uno cuente con la firma que le corresponde.<br>Entregar un archivo comprimido que contenga las firmas completas de los ejercicios correspondientes y entregados.</div>",
+  "instrucciones": "",
+  "entrega": "<div style=\"text-align:left\">El archivo no se entregará por este medio; deberá enviarse a través del enlace compartido dando click en el icono.</div>",
+  "condiciones": "<div style=\"text-align:justify\">La demostración deberá realizarse de manera física, durante la sesión y en el espacio indicados por el docente.<br>El montaje deberá cumplir con las conexiones y medidas de cuidado del equipo explicadas en clase.<br>El circuito y el programa deberán funcionar de manera conjunta y cumplir con el comportamiento solicitado.<br>El estudiante debean participar en la demostración y conocer el funcionamiento del ejercicio.<br>La firma se otorgará después de verificar satisfactoriamente el funcionamiento.<br>Las imageness entregadas deberá ser legible y corresponder a la firma otorgada para esta actividad.<br>El estudiante realiza la entrega de la evidencia, identificando correctamente los ejercicios<br>El archivo comprimido deberá nombrarse conforme a las indicaciones y entregarse antes de la fecha y hora establecidas.</div>",
+  "instruccion_carga": "<div style=\"text-align:left\">Al seleccionar el enlace o botón de entrega, aparecerá una ventana para cargar el archivo solicitado. Haz clic en “<span style=\"font-weight:bold\">S</span><span style=\"font-weight:bold\">e</span><span style=\"font-weight:bold\">l</span><span style=\"font-weight:bold\">e</span><span style=\"font-weight:bold\">c</span><span style=\"font-weight:bold\">c</span><span style=\"font-weight:bold\">i</span><span style=\"font-weight:bold\">o</span><span style=\"font-weight:bold\">n</span><span style=\"font-weight:bold\">a</span><span style=\"font-weight:bold\">r</span><span style=\"font-weight:bold\"> </span><span style=\"font-weight:bold\">a</span><span style=\"font-weight:bold\">r</span><span style=\"font-weight:bold\">c</span><span style=\"font-weight:bold\">h</span><span style=\"font-weight:bold\">i</span><span style=\"font-weight:bold\">v</span><span style=\"font-weight:bold\">o</span><span style=\"font-weight:bold\">s</span>” y elige el archivo que corresponde a esta actividad.<br><br>El nombre que aparece en la imagen es un <span style=\"font-weight:bold;color:#ff0000\">e</span><span style=\"font-weight:bold;color:#ff0000\">j</span><span style=\"font-weight:bold;color:#ff0000\">e</span><span style=\"font-weight:bold;color:#ff0000\">m</span><span style=\"font-weight:bold;color:#ff0000\">p</span><span style=\"font-weight:bold;color:#ff0000\">l</span><span style=\"font-weight:bold;color:#ff0000\">o</span><span style=\"color:#ff0000\">.</span></div>",
+  "instruccion_equipo": "<div style=\"text-align:left\">Después de seleccionar el archivo, aparecerán los campos <span style=\"font-weight:bold;color:#ff0000\">N</span><span style=\"font-weight:bold;color:#ff0000\">o</span><span style=\"font-weight:bold;color:#ff0000\">m</span><span style=\"font-weight:bold;color:#ff0000\">b</span><span style=\"font-weight:bold;color:#ff0000\">r</span><span style=\"font-weight:bold;color:#ff0000\">e</span> y <span style=\"font-weight:bold;color:#ff0000\">A</span><span style=\"font-weight:bold;color:#ff0000\">p</span><span style=\"font-weight:bold;color:#ff0000\">e</span><span style=\"font-weight:bold;color:#ff0000\">l</span><span style=\"font-weight:bold;color:#ff0000\">l</span><span style=\"font-weight:bold;color:#ff0000\">i</span><span style=\"font-weight:bold;color:#ff0000\">d</span><span style=\"font-weight:bold;color:#ff0000\">o</span><span style=\"font-weight:bold;color:#ff0000\">s</span>. Escribe lo siguiente:<br><br>Nombre: <span style=\"font-weight:bold;color:#ff0000\">E</span><span style=\"font-weight:bold;color:#ff0000\">q</span><span style=\"font-weight:bold;color:#ff0000\">u</span><span style=\"font-weight:bold;color:#ff0000\">i</span><span style=\"font-weight:bold;color:#ff0000\">p</span><span style=\"font-weight:bold;color:#ff0000\">o</span><br>Apellidos: <span style=\"font-weight:bold;color:#ff0000\">X</span><br><br>Donde:<br><span style=\"font-weight:bold;color:#ff0000\">X</span> es el número de equipo al que pertenecen.<br><br><span style=\"font-weight:bold\">E</span><span style=\"font-weight:bold\">s</span><span style=\"font-weight:bold\">t</span><span style=\"font-weight:bold\">e</span><span style=\"font-weight:bold\"> </span><span style=\"font-weight:bold\">p</span><span style=\"font-weight:bold\">r</span><span style=\"font-weight:bold\">o</span><span style=\"font-weight:bold\">c</span><span style=\"font-weight:bold\">e</span><span style=\"font-weight:bold\">d</span><span style=\"font-weight:bold\">i</span><span style=\"font-weight:bold\">m</span><span style=\"font-weight:bold\">i</span><span style=\"font-weight:bold\">e</span><span style=\"font-weight:bold\">n</span><span style=\"font-weight:bold\">t</span><span style=\"font-weight:bold\">o</span><span style=\"font-weight:bold\"> </span><span style=\"font-weight:bold\">e</span><span style=\"font-weight:bold\">s</span><span style=\"font-weight:bold\"> </span><span style=\"font-weight:bold\">e</span><span style=\"font-weight:bold\">l</span><span style=\"font-weight:bold\"> </span><span style=\"font-weight:bold\">m</span><span style=\"font-weight:bold\">i</span><span style=\"font-weight:bold\">s</span><span style=\"font-weight:bold\">m</span><span style=\"font-weight:bold\">o</span><span style=\"font-weight:bold\"> </span><span style=\"font-weight:bold\">p</span><span style=\"font-weight:bold\">a</span><span style=\"font-weight:bold\">r</span><span style=\"font-weight:bold\">a</span><span style=\"font-weight:bold\"> </span><span style=\"font-weight:bold\">l</span><span style=\"font-weight:bold\">o</span><span style=\"font-weight:bold\">s</span><span style=\"font-weight:bold\"> </span><span style=\"font-weight:bold\">d</span><span style=\"font-weight:bold\">o</span><span style=\"font-weight:bold\">s</span><span style=\"font-weight:bold\"> </span><span style=\"font-weight:bold\">a</span><span style=\"font-weight:bold\">r</span><span style=\"font-weight:bold\">c</span><span style=\"font-weight:bold\">h</span><span style=\"font-weight:bold\">i</span><span style=\"font-weight:bold\">v</span><span style=\"font-weight:bold\">o</span><span style=\"font-weight:bold\">s</span><span style=\"font-weight:bold\"> </span><span style=\"font-weight:bold\">q</span><span style=\"font-weight:bold\">u</span><span style=\"font-weight:bold\">e</span><span style=\"font-weight:bold\"> </span><span style=\"font-weight:bold\">s</span><span style=\"font-weight:bold\">e</span><span style=\"font-weight:bold\"> </span><span style=\"font-weight:bold\">t</span><span style=\"font-weight:bold\">i</span><span style=\"font-weight:bold\">e</span><span style=\"font-weight:bold\">n</span><span style=\"font-weight:bold\">e</span><span style=\"font-weight:bold\">n</span><span style=\"font-weight:bold\"> </span><span style=\"font-weight:bold\">q</span><span style=\"font-weight:bold\">u</span><span style=\"font-weight:bold\">e</span><span style=\"font-weight:bold\"> </span><span style=\"font-weight:bold\">e</span><span style=\"font-weight:bold\">n</span><span style=\"font-weight:bold\">t</span><span style=\"font-weight:bold\">r</span><span style=\"font-weight:bold\">e</span><span style=\"font-weight:bold\">g</span><span style=\"font-weight:bold\">a</span><span style=\"font-weight:bold\">r</span><span style=\"font-weight:bold\">.</span><br></div>",
+  "imagen_carga": "https://raw.githubusercontent.com/OsmarZanabria11/Imagenes/main/2a.png",
+  "imagen_equipo": "https://raw.githubusercontent.com/OsmarZanabria11/Imagenes/main/1a.png",
+  "firma": "AX - Nombre.rar",
+  "simulacion": "",
+  "enlace": "https://itsaoedu-my.sharepoint.com/:f:/g/personal/osmar_zanabria_itsao_edu_mx/IgCTR9hgvfTgS6UiukfRPNq6AVOroClGU9Wg9edYQehd1WM",
+  "imagen": "https://raw.githubusercontent.com/OsmarZanabria11/Imagenes/main/one.png",
+  "enlaces": "",
+  "imagen_carga_ancho": "310",
+  "imagen_carga_alto": "270",
+  "imagen_equipo_ancho": "310",
+  "imagen_equipo_alto": "270",
+  "imagen_entrega_ancho": "180",
+  "imagen_entrega_alto": "120",
+  "nota_entrega": "<div style=\"text-align:justify\"><span style=\"font-weight:bold\">N</span><span style=\"font-weight:bold\">o</span><span style=\"font-weight:bold\">t</span><span style=\"font-weight:bold\">a</span><span style=\"font-weight:bold\">:</span> Revisa los permisos de la carpeta antes de entregar.</div>",
+  "notas": "<div style=\"text-align:justify\">Donde: <br><br><span style=\"font-weight:bold;color:#ff0000\">A</span><span style=\"font-weight:bold;color:#ff0000\">C</span><span style=\"font-weight:bold;color:#ff0000\">:</span> Actividad.<br><span style=\"font-weight:bold;color:#ff0000\">X</span>: Número de la actividad.<br><span style=\"font-weight:bold;color:#ff0000\">N</span><span style=\"font-weight:bold;color:#ff0000\">o</span><span style=\"font-weight:bold;color:#ff0000\">m</span><span style=\"font-weight:bold;color:#ff0000\">b</span><span style=\"font-weight:bold;color:#ff0000\">r</span><span style=\"font-weight:bold;color:#ff0000\">e</span><span style=\"font-weight:bold;color:#ff0000\">s</span>: Nombre de los integrante. Ejemplo: Juan.<br></div>",
+  "checklist": "<div style=\"text-align:justify\">Se incluyen todos los ejercicios solicitados, completos y en el orden indicado.<br>Cada ejercicio está identificado con su número o título y los nombres correspondientes.<br>Las imágenes de la firma son claras, completas y corresponde a esta actividad.<br>Se identifica el estudiante quien entrega el archivo.<br>El archivo comprimido tiene el nombre solicitado.<br>La entrega es indivudual de la evidencia.<br>La entrega se realiza antes de la fecha y hora establecidas.</div>",
+  "apartados_adicionales": []
+}
