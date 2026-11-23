@@ -1,0 +1,134 @@
+{
+  "alineacion_bloques": {
+    "fecha": "left",
+    "formato": "left",
+    "nombres": "left"
+  },
+  "alineacion_imagenes": {
+    "imagen": "center",
+    "imagen_carga": "center",
+    "imagen_equipo": "center"
+  },
+  "titulos_secciones": {
+    "Datos de la actividad": {
+      "texto": "Datos de la actividad",
+      "alineacion": "left"
+    },
+    "Descripción": {
+      "texto": "Ejercicio 57: Sistema de control quincenal para un establecimiento",
+      "alineacion": "left"
+    },
+    "Requerimientos": {
+      "texto": "Requerimientos de la Actividad",
+      "alineacion": "left"
+    },
+    "Instrucciones de entrega": {
+      "texto": "Instrucciones de entrega",
+      "alineacion": "left"
+    },
+    "Instrucciones y criterios": {
+      "texto": "Instrucciones ",
+      "alineacion": "left"
+    },
+    "Criterios y condiciones": {
+      "texto": "Criterios y condiciones",
+      "alineacion": "left"
+    },
+    "Entrega del archivo": {
+      "texto": "Entrega del archivo",
+      "alineacion": "left"
+    },
+    "Instrucciones para cargar el archivo": {
+      "texto": "Instrucciones para cargar el archivo",
+      "alineacion": "left"
+    },
+    "Formato para nombrar los archivos": {
+      "texto": "Formato para nombrar los archivos",
+      "alineacion": "left"
+    },
+    "Enlaces y recursos": {
+      "texto": "Enlaces y recursos",
+      "alineacion": "left"
+    },
+    "Notas importantes": {
+      "texto": "Notas importantes",
+      "alineacion": "left"
+    },
+    "Checklist": {
+      "texto": "Checklist",
+      "alineacion": "left"
+    }
+  },
+  "formato_secciones": {
+    "0": {
+      "texto": "justify",
+      "imagen": "left"
+    },
+    "1": {
+      "texto": "justify",
+      "imagen": "center"
+    },
+    "2": {
+      "texto": "justify",
+      "imagen": "right"
+    },
+    "3": {
+      "texto": "justify",
+      "imagen": "center"
+    },
+    "4": {
+      "texto": "justify",
+      "imagen": "center"
+    },
+    "5": {
+      "texto": "justify",
+      "imagen": "right"
+    },
+    "6": {
+      "texto": "justify",
+      "imagen": "left"
+    }
+  },
+  "version": "2.25",
+  "numero": "3",
+  "tema": "T4",
+  "ejercicio": "18",
+  "actividad": "3",
+  "titulo_principal": "Actividad 3 – T4 - Ejercicio 57",
+  "subtitulo": "Desarrollo del ejercicio 57",
+  "nombre_archivo": "Actividad 3 – T4.html",
+  "materia": "Programación Visual",
+  "unidad": "Unidad 2: estructuras de control",
+  "titulo": "",
+  "docente": "Osmar García Zanabria",
+  "institucion": "Instituto Tecnológico Superior de Acatlán de Osorio",
+  "fecha_limite": "2026-12-07",
+  "hora_limite": "23:59",
+  "estado_entrega": "habilitado",
+  "mostrar_contador": "si",
+  "cierre_automatico": "si",
+  "descripcion": "<div style=\"text-align:justify\">Cada estudiante seleccionará un establecimiento real y desarrollará una aplicación con interfaz gráfica en Python para administrar sus ingresos, egresos, ahorro y utilidades por quincena. La propuesta deberá responder a las necesidades del establecimiento elegido y permitir consultar rápidamente sus movimientos y resultados.<br><br>Por ejemplo: El propietario de un restaurante consultar los ingresos, los gastos, el ahorro y el dinero disponible de cada departamento durante una quincena. El sistema administrará cuatro departamentos: comida, postres, bebidas y dulcería. Cada uno comenzará con un fondo de $1,000, que podrá utilizar para cubrir sus operaciones. La aplicación permitirá registrar movimientos individuales, consultar el historial y realizar un cierre quincenal con resultados por departamento y del establecimiento completo. <span style=\"font-weight:bold\">E</span><span style=\"font-weight:bold\">s</span><span style=\"font-weight:bold\">t</span><span style=\"font-weight:bold\">e</span><span style=\"font-weight:bold\"> </span><span style=\"font-weight:bold\">e</span><span style=\"font-weight:bold\">j</span><span style=\"font-weight:bold\">e</span><span style=\"font-weight:bold\">m</span><span style=\"font-weight:bold\">p</span><span style=\"font-weight:bold\">l</span><span style=\"font-weight:bold\">o</span><span style=\"font-weight:bold\"> </span><span style=\"font-weight:bold\">s</span><span style=\"font-weight:bold\">e</span><span style=\"font-weight:bold\">r</span><span style=\"font-weight:bold\">v</span><span style=\"font-weight:bold\">i</span><span style=\"font-weight:bold\">r</span><span style=\"font-weight:bold\">á</span><span style=\"font-weight:bold\"> </span><span style=\"font-weight:bold\">ú</span><span style=\"font-weight:bold\">n</span><span style=\"font-weight:bold\">i</span><span style=\"font-weight:bold\">c</span><span style=\"font-weight:bold\">a</span><span style=\"font-weight:bold\">m</span><span style=\"font-weight:bold\">e</span><span style=\"font-weight:bold\">n</span><span style=\"font-weight:bold\">t</span><span style=\"font-weight:bold\">e</span><span style=\"font-weight:bold\"> </span><span style=\"font-weight:bold\">c</span><span style=\"font-weight:bold\">o</span><span style=\"font-weight:bold\">m</span><span style=\"font-weight:bold\">o</span><span style=\"font-weight:bold\"> </span><span style=\"font-weight:bold\">r</span><span style=\"font-weight:bold\">e</span><span style=\"font-weight:bold\">f</span><span style=\"font-weight:bold\">e</span><span style=\"font-weight:bold\">r</span><span style=\"font-weight:bold\">e</span><span style=\"font-weight:bold\">n</span><span style=\"font-weight:bold\">c</span><span style=\"font-weight:bold\">i</span><span style=\"font-weight:bold\">a</span><span style=\"font-weight:bold\">.</span><span style=\"font-weight:bold\"> </span><br><br>Cada estudiante deberá elegir un establecimiento diferente, sin utilizar un restaurante, y organizar el sistema según sus departamentos, áreas o líneas de negocio.</div>",
+  "requerimientos": "<div style=\"text-align:justify\"><span style=\"font-weight:bold\">S</span><span style=\"font-weight:bold\">e</span><span style=\"font-weight:bold\">l</span><span style=\"font-weight:bold\">e</span><span style=\"font-weight:bold\">c</span><span style=\"font-weight:bold\">c</span><span style=\"font-weight:bold\">i</span><span style=\"font-weight:bold\">ó</span><span style=\"font-weight:bold\">n</span><span style=\"font-weight:bold\"> </span><span style=\"font-weight:bold\">y</span><span style=\"font-weight:bold\"> </span><span style=\"font-weight:bold\">o</span><span style=\"font-weight:bold\">r</span><span style=\"font-weight:bold\">g</span><span style=\"font-weight:bold\">a</span><span style=\"font-weight:bold\">n</span><span style=\"font-weight:bold\">i</span><span style=\"font-weight:bold\">z</span><span style=\"font-weight:bold\">a</span><span style=\"font-weight:bold\">c</span><span style=\"font-weight:bold\">i</span><span style=\"font-weight:bold\">ó</span><span style=\"font-weight:bold\">n</span><span style=\"font-weight:bold\"> </span><span style=\"font-weight:bold\">d</span><span style=\"font-weight:bold\">e</span><span style=\"font-weight:bold\">l</span><span style=\"font-weight:bold\"> </span><span style=\"font-weight:bold\">e</span><span style=\"font-weight:bold\">s</span><span style=\"font-weight:bold\">t</span><span style=\"font-weight:bold\">a</span><span style=\"font-weight:bold\">b</span><span style=\"font-weight:bold\">l</span><span style=\"font-weight:bold\">e</span><span style=\"font-weight:bold\">c</span><span style=\"font-weight:bold\">i</span><span style=\"font-weight:bold\">m</span><span style=\"font-weight:bold\">i</span><span style=\"font-weight:bold\">e</span><span style=\"font-weight:bold\">n</span><span style=\"font-weight:bold\">t</span><span style=\"font-weight:bold\">o</span><br><br>El estudiante deberá:<br>Seleccionar un establecimiento real y definir qué necesidad atenderá el sistema.<br>Identificar sus departamentos, áreas de trabajo o líneas de negocio y adaptar los nombres y categorías de la interfaz.<br>Permitir registrar el saldo inicial de cada área.<br>Organizar los movimientos por mes, año y quincena: del día 1 al 15 y del día 16 al último día del mes.<br><br><span style=\"font-weight:bold\">R</span><span style=\"font-weight:bold\">e</span><span style=\"font-weight:bold\">g</span><span style=\"font-weight:bold\">i</span><span style=\"font-weight:bold\">s</span><span style=\"font-weight:bold\">t</span><span style=\"font-weight:bold\">r</span><span style=\"font-weight:bold\">o</span><span style=\"font-weight:bold\"> </span><span style=\"font-weight:bold\">d</span><span style=\"font-weight:bold\">e</span><span style=\"font-weight:bold\"> </span><span style=\"font-weight:bold\">m</span><span style=\"font-weight:bold\">o</span><span style=\"font-weight:bold\">v</span><span style=\"font-weight:bold\">i</span><span style=\"font-weight:bold\">m</span><span style=\"font-weight:bold\">i</span><span style=\"font-weight:bold\">e</span><span style=\"font-weight:bold\">n</span><span style=\"font-weight:bold\">t</span><span style=\"font-weight:bold\">o</span><span style=\"font-weight:bold\">s</span><br><br>La aplicación permitirá registrar individualmente:<br>Ingresos: ventas de productos, prestación de servicios u otros conceptos propios del establecimiento.<br>Egresos: compras, materiales, sueldos, servicios y otros gastos de operación.<br>Gastos compartidos: pagos que correspondan a varias áreas, distribuidos sin duplicar su importe.<br>Cada movimiento incluirá fecha, área, tipo, categoría, concepto e importe. El sistema permitirá corregir o eliminar registros antes del cierre quincenal, previa confirmación.<br><br><span style=\"font-weight:bold\">R</span><span style=\"font-weight:bold\">e</span><span style=\"font-weight:bold\">s</span><span style=\"font-weight:bold\">u</span><span style=\"font-weight:bold\">l</span><span style=\"font-weight:bold\">t</span><span style=\"font-weight:bold\">a</span><span style=\"font-weight:bold\">d</span><span style=\"font-weight:bold\">o</span><span style=\"font-weight:bold\">s</span><span style=\"font-weight:bold\">,</span><span style=\"font-weight:bold\"> </span><span style=\"font-weight:bold\">a</span><span style=\"font-weight:bold\">h</span><span style=\"font-weight:bold\">o</span><span style=\"font-weight:bold\">r</span><span style=\"font-weight:bold\">r</span><span style=\"font-weight:bold\">o</span><span style=\"font-weight:bold\"> </span><span style=\"font-weight:bold\">y</span><span style=\"font-weight:bold\"> </span><span style=\"font-weight:bold\">r</span><span style=\"font-weight:bold\">e</span><span style=\"font-weight:bold\">t</span><span style=\"font-weight:bold\">i</span><span style=\"font-weight:bold\">r</span><span style=\"font-weight:bold\">o</span><span style=\"font-weight:bold\">s</span><br><br>El sistema mostrará por área y para el establecimiento completo:<br>Saldo inicial.<br>Total de ingresos y egresos.<br>Resultado quincenal: ganancia o pérdida.<br>Ahorro asignado en la quincena y ahorro acumulado.<br>Utilidad disponible y retiro realizado por el propietario.<br>Saldo operativo disponible para la siguiente quincena.<br><br>Para efectos del ejercicio, se considerarán las siguientes relaciones:<br><br>Resultado quincenal = ingresos − egresos<br>Ganancia disponible = máximo entre el resultado quincenal y cero<br>Utilidad disponible para el propietario = ganancia disponible − ahorro de la quincena<br>Saldo final operativo = saldo inicial + ingresos − egresos − ahorro de la quincena − retiro del propietario<br>El ahorro y el retiro se registrarán por separado de los gastos. Su suma no podrá superar la ganancia disponible ni provocar un saldo operativo negativo. Cuando exista pérdida, el sistema la mostrará y no permitirá asignar ahorro ni retiros con cargo a esa quincena.<br><br><span style=\"font-weight:bold\">H</span><span style=\"font-weight:bold\">i</span><span style=\"font-weight:bold\">s</span><span style=\"font-weight:bold\">t</span><span style=\"font-weight:bold\">o</span><span style=\"font-weight:bold\">r</span><span style=\"font-weight:bold\">i</span><span style=\"font-weight:bold\">a</span><span style=\"font-weight:bold\">l</span><span style=\"font-weight:bold\"> </span><span style=\"font-weight:bold\">y</span><span style=\"font-weight:bold\"> </span><span style=\"font-weight:bold\">c</span><span style=\"font-weight:bold\">i</span><span style=\"font-weight:bold\">e</span><span style=\"font-weight:bold\">r</span><span style=\"font-weight:bold\">r</span><span style=\"font-weight:bold\">e</span><span style=\"font-weight:bold\"> </span><span style=\"font-weight:bold\">q</span><span style=\"font-weight:bold\">u</span><span style=\"font-weight:bold\">i</span><span style=\"font-weight:bold\">n</span><span style=\"font-weight:bold\">c</span><span style=\"font-weight:bold\">e</span><span style=\"font-weight:bold\">n</span><span style=\"font-weight:bold\">a</span><span style=\"font-weight:bold\">l</span><br><br>La aplicación deberá:<br>Mostrar un historial con filtros por área y quincena.<br>Conservar los datos después de cerrar y abrir el programa.<br>Permitir el cierre quincenal mediante confirmación.<br>Mantener las quincenas cerradas disponibles para consulta, sin permitir modificaciones.<br>Transferir el saldo operativo final de cada área como saldo inicial de la siguiente quincena.<br><br><span style=\"font-weight:bold\">I</span><span style=\"font-weight:bold\">n</span><span style=\"font-weight:bold\">t</span><span style=\"font-weight:bold\">e</span><span style=\"font-weight:bold\">r</span><span style=\"font-weight:bold\">f</span><span style=\"font-weight:bold\">a</span><span style=\"font-weight:bold\">z</span><span style=\"font-weight:bold\"> </span><span style=\"font-weight:bold\">y</span><span style=\"font-weight:bold\"> </span><span style=\"font-weight:bold\">e</span><span style=\"font-weight:bold\">n</span><span style=\"font-weight:bold\">t</span><span style=\"font-weight:bold\">r</span><span style=\"font-weight:bold\">e</span><span style=\"font-weight:bold\">g</span><span style=\"font-weight:bold\">a</span><br><br>La interfaz incluirá formularios de captura, una tabla de movimientos y un resumen de resultados. Los importes se mostrarán en pesos con dos decimales.<br>El estudiante entregará un archivo .py con la aplicación. El programa creará automáticamente los archivos de almacenamiento que necesite al ejecutarse por primera vez.</div>",
+  "instrucciones": "",
+  "entrega": "<div style=\"text-align:left\">El archivo no se entregará por este medio; deberá enviarse a través del enlace compartido dando click en el icono.</div>",
+  "condiciones": "<div style=\"text-align:justify\">El desarrollo, las pruebas y la entrega serán individuales.<br>Cada estudiante seleccionará un establecimiento diferente al de sus compañeros y registrará su elección con el docente para evitar repeticiones. No se aceptará un restaurante.<br>La aplicación deberá responder a las operaciones del establecimiento elegido; la adaptación deberá reflejarse en sus áreas, conceptos de ingreso y categorías de gasto.<br>El estudiante podrá utilizar datos de prueba representativos, sin incluir información personal o confidencial del establecimiento.<br>El sistema validará los campos obligatorios, las fechas y los importes, y distinguirá entre saldo inicial, ingresos, gastos, ahorro y retiros.<br>Las pruebas deberán incluir una quincena con ganancia, otra con pérdida, correcciones de movimientos y recuperación de datos después de reiniciar el programa.<br>El código deberá ejecutarse sin errores e incluir comentarios sobre sus funciones principales. Al inicio se indicarán el establecimiento seleccionado, la necesidad atendida y las bibliotecas adicionales utilizadas, si corresponde.<br>El archivo .py llevará el nombre solicitado y se entregará por el medio indicado, dentro del plazo establecido.</div>",
+  "instruccion_carga": "<div style=\"text-align:left\">Al seleccionar el enlace o botón de entrega, aparecerá una ventana para cargar el archivo solicitado. Haz clic en “<span style=\"font-weight:bold\">S</span><span style=\"font-weight:bold\">e</span><span style=\"font-weight:bold\">l</span><span style=\"font-weight:bold\">e</span><span style=\"font-weight:bold\">c</span><span style=\"font-weight:bold\">c</span><span style=\"font-weight:bold\">i</span><span style=\"font-weight:bold\">o</span><span style=\"font-weight:bold\">n</span><span style=\"font-weight:bold\">a</span><span style=\"font-weight:bold\">r</span><span style=\"font-weight:bold\"> </span><span style=\"font-weight:bold\">a</span><span style=\"font-weight:bold\">r</span><span style=\"font-weight:bold\">c</span><span style=\"font-weight:bold\">h</span><span style=\"font-weight:bold\">i</span><span style=\"font-weight:bold\">v</span><span style=\"font-weight:bold\">o</span><span style=\"font-weight:bold\">s</span>” y elige el archivo que corresponde a esta actividad.<br><br>El nombre que aparece en la imagen es un <span style=\"font-weight:bold;color:#ff0000\">e</span><span style=\"font-weight:bold;color:#ff0000\">j</span><span style=\"font-weight:bold;color:#ff0000\">e</span><span style=\"font-weight:bold;color:#ff0000\">m</span><span style=\"font-weight:bold;color:#ff0000\">p</span><span style=\"font-weight:bold;color:#ff0000\">l</span><span style=\"font-weight:bold;color:#ff0000\">o</span><span style=\"color:#ff0000\">.</span></div>",
+  "instruccion_equipo": "<div style=\"text-align:left\">Después de seleccionar el archivo, aparecerán los campos <span style=\"font-weight:bold;color:#ff0000\">N</span><span style=\"font-weight:bold;color:#ff0000\">o</span><span style=\"font-weight:bold;color:#ff0000\">m</span><span style=\"font-weight:bold;color:#ff0000\">b</span><span style=\"font-weight:bold;color:#ff0000\">r</span><span style=\"font-weight:bold;color:#ff0000\">e</span> y <span style=\"font-weight:bold;color:#ff0000\">A</span><span style=\"font-weight:bold;color:#ff0000\">p</span><span style=\"font-weight:bold;color:#ff0000\">e</span><span style=\"font-weight:bold;color:#ff0000\">l</span><span style=\"font-weight:bold;color:#ff0000\">l</span><span style=\"font-weight:bold;color:#ff0000\">i</span><span style=\"font-weight:bold;color:#ff0000\">d</span><span style=\"font-weight:bold;color:#ff0000\">o</span><span style=\"font-weight:bold;color:#ff0000\">s</span>. Escribe lo siguiente:<br><br>Nombre: <span style=\"font-weight:bold;color:#ff0000\">N</span><span style=\"font-weight:bold;color:#ff0000\">o</span><span style=\"font-weight:bold;color:#ff0000\">m</span><span style=\"font-weight:bold;color:#ff0000\">b</span><span style=\"font-weight:bold;color:#ff0000\">r</span><span style=\"font-weight:bold;color:#ff0000\">e</span><br>Apellidos: <span style=\"font-weight:bold;color:#ff0000\">A</span><span style=\"font-weight:bold;color:#ff0000\">p</span><span style=\"font-weight:bold;color:#ff0000\">e</span><span style=\"font-weight:bold;color:#ff0000\">l</span><span style=\"font-weight:bold;color:#ff0000\">l</span><span style=\"font-weight:bold;color:#ff0000\">i</span><span style=\"font-weight:bold;color:#ff0000\">d</span><span style=\"font-weight:bold;color:#ff0000\">o</span><br><br><span style=\"font-weight:bold\">E</span><span style=\"font-weight:bold\">s</span><span style=\"font-weight:bold\">t</span><span style=\"font-weight:bold\">e</span><span style=\"font-weight:bold\"> </span><span style=\"font-weight:bold\">p</span><span style=\"font-weight:bold\">r</span><span style=\"font-weight:bold\">o</span><span style=\"font-weight:bold\">c</span><span style=\"font-weight:bold\">e</span><span style=\"font-weight:bold\">d</span><span style=\"font-weight:bold\">i</span><span style=\"font-weight:bold\">m</span><span style=\"font-weight:bold\">i</span><span style=\"font-weight:bold\">e</span><span style=\"font-weight:bold\">n</span><span style=\"font-weight:bold\">t</span><span style=\"font-weight:bold\">o</span><span style=\"font-weight:bold\"> </span><span style=\"font-weight:bold\">e</span><span style=\"font-weight:bold\">s</span><span style=\"font-weight:bold\"> </span><span style=\"font-weight:bold\">e</span><span style=\"font-weight:bold\">l</span><span style=\"font-weight:bold\"> </span><span style=\"font-weight:bold\">m</span><span style=\"font-weight:bold\">i</span><span style=\"font-weight:bold\">s</span><span style=\"font-weight:bold\">m</span><span style=\"font-weight:bold\">o</span><span style=\"font-weight:bold\"> </span><span style=\"font-weight:bold\">p</span><span style=\"font-weight:bold\">a</span><span style=\"font-weight:bold\">r</span><span style=\"font-weight:bold\">a</span><span style=\"font-weight:bold\"> </span><span style=\"font-weight:bold\">l</span><span style=\"font-weight:bold\">o</span><span style=\"font-weight:bold\">s</span><span style=\"font-weight:bold\"> </span><span style=\"font-weight:bold\">d</span><span style=\"font-weight:bold\">o</span><span style=\"font-weight:bold\">s</span><span style=\"font-weight:bold\"> </span><span style=\"font-weight:bold\">a</span><span style=\"font-weight:bold\">r</span><span style=\"font-weight:bold\">c</span><span style=\"font-weight:bold\">h</span><span style=\"font-weight:bold\">i</span><span style=\"font-weight:bold\">v</span><span style=\"font-weight:bold\">o</span><span style=\"font-weight:bold\">s</span><span style=\"font-weight:bold\"> </span><span style=\"font-weight:bold\">q</span><span style=\"font-weight:bold\">u</span><span style=\"font-weight:bold\">e</span><span style=\"font-weight:bold\"> </span><span style=\"font-weight:bold\">s</span><span style=\"font-weight:bold\">e</span><span style=\"font-weight:bold\"> </span><span style=\"font-weight:bold\">t</span><span style=\"font-weight:bold\">i</span><span style=\"font-weight:bold\">e</span><span style=\"font-weight:bold\">n</span><span style=\"font-weight:bold\">e</span><span style=\"font-weight:bold\">n</span><span style=\"font-weight:bold\"> </span><span style=\"font-weight:bold\">q</span><span style=\"font-weight:bold\">u</span><span style=\"font-weight:bold\">e</span><span style=\"font-weight:bold\"> </span><span style=\"font-weight:bold\">e</span><span style=\"font-weight:bold\">n</span><span style=\"font-weight:bold\">t</span><span style=\"font-weight:bold\">r</span><span style=\"font-weight:bold\">e</span><span style=\"font-weight:bold\">g</span><span style=\"font-weight:bold\">a</span><span style=\"font-weight:bold\">r</span><span style=\"font-weight:bold\">.</span><br></div>",
+  "imagen_carga": "https://raw.githubusercontent.com/OsmarZanabria11/Imagenes/main/2a.png",
+  "imagen_equipo": "https://raw.githubusercontent.com/OsmarZanabria11/Imagenes/main/1a.png",
+  "firma": "AX - Nombre.py",
+  "simulacion": "",
+  "enlace": "https://itsaoedu-my.sharepoint.com/:f:/g/personal/osmar_zanabria_itsao_edu_mx/IgCbCS-0wAd1QLO0LinKrN-NAS8_XJuOmShANVOprwzmQk8",
+  "imagen": "https://raw.githubusercontent.com/OsmarZanabria11/Imagenes/main/one.png",
+  "enlaces": "",
+  "imagen_carga_ancho": "310",
+  "imagen_carga_alto": "270",
+  "imagen_equipo_ancho": "310",
+  "imagen_equipo_alto": "270",
+  "imagen_entrega_ancho": "180",
+  "imagen_entrega_alto": "120",
+  "nota_entrega": "<div style=\"text-align:justify\"><span style=\"font-weight:bold\">N</span><span style=\"font-weight:bold\">o</span><span style=\"font-weight:bold\">t</span><span style=\"font-weight:bold\">a</span><span style=\"font-weight:bold\">:</span> Revisa los permisos de la carpeta antes de entregar.</div>",
+  "notas": "<div style=\"text-align:justify\">Donde: <br><br><span style=\"font-weight:bold;color:#ff0000\">A</span><span style=\"font-weight:bold;color:#ff0000\">C</span><span style=\"font-weight:bold;color:#ff0000\">:</span> Actividad.<br><span style=\"font-weight:bold;color:#ff0000\">X</span>: Número de la actividad.<br><span style=\"font-weight:bold;color:#ff0000\">N</span><span style=\"font-weight:bold;color:#ff0000\">o</span><span style=\"font-weight:bold;color:#ff0000\">m</span><span style=\"font-weight:bold;color:#ff0000\">b</span><span style=\"font-weight:bold;color:#ff0000\">r</span><span style=\"font-weight:bold;color:#ff0000\">e</span>: Nombre. Ejemplo: Juan.<br></div>",
+  "checklist": "<div style=\"text-align:justify\">El establecimiento seleccionado es real, no es un restaurante y está registrado con el docente.<br>Las áreas y categorías del sistema corresponden al establecimiento elegido.<br>Se pueden registrar saldos iniciales, ingresos y egresos por quincena.<br>Los movimientos pueden corregirse o eliminarse antes del cierre.<br>Los gastos compartidos se distribuyen sin duplicarse.<br>Los resultados distinguen ganancias o pérdidas, ahorro, retiros y saldo operativo.<br>El historial permite consultar movimientos por área y quincena.<br>Los datos se conservan después de cerrar y abrir la aplicación.<br>El cierre quincenal guarda los resultados y transfiere el saldo a la siguiente quincena.<br>La interfaz presenta un resumen por área y del establecimiento completo.<br>El archivo .py funciona correctamente y se entrega de manera individual dentro del plazo.</div>",
+  "apartados_adicionales": []
+}
